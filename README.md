@@ -10,28 +10,6 @@ This project analyzes a year-worth of simulated banking data (FY2023) to uncover
 
 ---
 
-## 📂 Repository Structure
-
-```
-banking-transaction-analysis/
-│
-├── data/
-│   └── banking_transactions.csv       # Raw dataset (500 rows, 10 columns)
-│
-├── sql/
-│   └── banking_sql.sql                # 20 SQL queries across 5 sections
-│
-├── powerbi/
-│   └── Banking_analysis.pbix          # Power BI dashboard file
-│
-├── report/
-│   └── Banking_Analysis_Report.docx   # Full written analysis report
-│
-└── README.md
-```
-
----
-
 ## 📊 Dataset
 
 | Field | Type | Description |
